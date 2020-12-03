@@ -1,0 +1,11 @@
+{
+  "name": "zod-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "tslide": "^1.5.0",
+    "zod": "beta"
+  }
+}
